@@ -1,0 +1,6 @@
+{
+  "name": "EventFlow — Smart Event Coordination Platform for College Events",
+  "description": "Centralized college event platform for participants, organizers, and campus administrators. Discover events, register, QR check-in, live schedules, announcements, certificates, and event operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
